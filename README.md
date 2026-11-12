@@ -9,6 +9,14 @@ Aplicación de escritorio ligera para Windows que, **al pulsar un atajo de tecla
 - **OCR integrado en Windows** (`Windows.Media.Ocr`). No hace falta Tesseract ni ninguna descarga pesada.
 - **[dofusdb.fr](https://dofusdb.fr)** es opcional. Aporta el nombre oficial, el icono y los nombres en 5 idiomas, y guarda una caché local.
 
+## Descarga
+
+**[⬇ Descargar DofusPetMerch.exe](https://github.com/ptruebadev-oss/DofusPetMerch/releases/latest/download/DofusPetMerch.exe)** (última versión, Windows 10 u 11).
+
+Es un único archivo: no se instala ni necesita nada más. Guárdalo donde quieras y ábrelo con doble clic.
+
+La primera vez, Windows puede mostrar *"Windows protegió su PC"* porque el programa no está firmado digitalmente. Pulsa **Más información > Ejecutar de todas formas**.
+
 ## Cómo se ve
 
 Al pulsar el atajo con la ventana de compra abierta, aparece un aviso junto a ella con el veredicto y el detalle de cada lote:
