@@ -1,0 +1,11 @@
+mss>=9
+numpy>=2
+pillow>=10
+rapidfuzz>=3
+winrt-runtime>=2
+winrt-Windows.Foundation>=2
+winrt-Windows.Foundation.Collections>=2
+winrt-Windows.Globalization>=2
+winrt-Windows.Graphics.Imaging>=2
+winrt-Windows.Media.Ocr>=2
+winrt-Windows.Storage.Streams>=2
